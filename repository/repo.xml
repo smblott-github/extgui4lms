@@ -7,7 +7,7 @@
     <plugin name="LMSnewGUI" version="0.6.6" minTarget="7.3" maxTarget="7.*">
       <title lang="EN">extGUI4LMS</title>
       <desc lang="EN">Alternative Web Interface</desc>
-	  <changes lang="EN">Support for favorites. Some bugfixes.</changes>
+	  <changes lang="EN">Viewer for album-related images. See http://forums.slimdevices.com/showthread.php?98196-Other-Album-images-back-booklets-etc-Any-way-of-displaying-these</changes>
       <url>http://extgui4lms.googlecode.com/files/extGUI4LMS.0.66.zip</url>
       <creator>R.S.U</creator>
       <sha>deb771c06178d04c8a3950971778dc3a982b85d9</sha>
