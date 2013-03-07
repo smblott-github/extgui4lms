@@ -4,13 +4,13 @@
     <title lang="EN">extGUI4LMS plugin</title>
   </details>
   <plugins>
-    <plugin name="LMSnewGUI" version="0.6.4" minTarget="7.3" maxTarget="7.*">
+    <plugin name="LMSnewGUI" version="0.6.5" minTarget="7.3" maxTarget="7.*">
       <title lang="EN">extGUI4LMS</title>
       <desc lang="EN">Alternative Web Interface</desc>
-	  <changes lang="EN">Shorter startup time. Track context menu improved. New track context menu for left panels to display tags.</changes>
-      <url>http://extgui4lms.googlecode.com/files/extGUI4LMS.0.64.zip</url>
+	  <changes lang="EN">Support for favorites. Some bugfixes.</changes>
+      <url>http://extgui4lms.googlecode.com/files/extGUI4LMS.0.65.zip</url>
       <creator>R.S.U</creator>
-      <sha>0c696215567870a24586b5f09f861af4719be60a</sha>
+      <sha>66e53acf0856d66d883817a0a821508781311a16</sha>
       <link>http://code.google.com/p/extgui4lms/</link>
     </plugin>
   </plugins>
