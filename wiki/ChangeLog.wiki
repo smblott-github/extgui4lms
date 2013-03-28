@@ -12,7 +12,7 @@
  * 0.6.9 Visual/layout tweaks, other small improvements
  * 0.6.8 Back button in search result panels/Preferences: some performance-related parameters can be changed
  * 0.6.7 Move tracks in playlist (still limited, needs more work) / Bugfixes (eg. empty playlist if players synchronized) / Minor other improvements (eg. start search with return key)
- * 0.6.6 Viewer for album-related images. See this [http://forums.slimdevices.com/showthread.php?98196-Other-Album-images-back-booklets-etc-Any-way-of-displaying-these forum post]
+ * 0.6.6 Viewer for album-related images. See this [http://forums.slimdevices.com/showthread.php?98196-Other-Album-images-back-booklets-etc-Any-way-of-displaying-these&p=740123&viewfull=1#post740123 forum post]
  * 0.6.5 Support for favorites. Some bugfixes.
  * 0.6.4 Shorter startup time. Track context menu improved. New track context menu for left panels to display tags.
  * 0.6.3 A (experimental) track context menu is available by right-clicking on a track in the current playlist
