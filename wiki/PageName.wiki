@@ -7,11 +7,11 @@
  * 0.7.8 Discogs integration (see help), lyrics
  * 0.7.7 Application state (see help), other small improvements
  * 0.7.6 Improved LMS menu, global timeout settings
- * 0.7.5 LMS menu (see forum post), Album statistics in Search/Albums, other small improvements
+ * 0.7.5 LMS menu (see [http://forums.slimdevices.com/showthread.php?98186-Announce-Alternative-Web-Interface-(beta)&p=741647&viewfull=1#post741647 forum post]), Album statistics in Search/Albums, other small improvements
  * 0.7.0 Shuffle, custom search for albums, other small improvements
  * 0.6.9 Visual/layout tweaks, other small improvements
  * 0.6.8 Back button in search result panels/Preferences: some performance-related parameters can be changed
- * 0.6.7 Move tracks in playlist (still limited, needs more work)/Bugfixes (eg. empty playlist if players synchronized)/Minor other improvements (eg. start search with return key)
+ * 0.6.7 Move tracks in playlist (still limited, needs more work) / Bugfixes (eg. empty playlist if players synchronized) / Minor other improvements (eg. start search with return key)
  * 0.6.6 Viewer for album-related images. See this [http://forums.slimdevices.com/showthread.php?98196-Other-Album-images-back-booklets-etc-Any-way-of-displaying-these forum post]
  * 0.6.5 Support for favorites. Some bugfixes.
  * 0.6.4 Shorter startup time. Track context menu improved. New track context menu for left panels to display tags.
