@@ -3,6 +3,7 @@
 
 = Change Log =
 
+ * 0.7.11 Discogs artist information, other small improvements
  * 0.7.10 Bugfixes
  * 0.7.9 Improved Discogs integration
  * 0.7.8 Discogs integration (see help), lyrics
