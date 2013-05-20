@@ -1,6 +1,7 @@
 #summary Change Log
 #labels Featured
 
+ * 0.8.1 Insert after current track (hold ctrl while dropping items), performance improvements for cover display (needs >= LMS 7.8.0), misc. bugfixes 
  * 0.8 cover view (double click on a Album tab), improved picture viewer
  * 0.7.12 Discogs artist >100 releases, more columns configuration, minor visual touch-ups, bugfixes
  * 0.7.11 Discogs artist information, other small improvements
