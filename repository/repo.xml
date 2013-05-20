@@ -4,13 +4,13 @@
     <title lang="EN">extGUI4LMS plugin</title>
   </details>
   <plugins>
-    <plugin name="LMSnewGUI" version="0.8.0" minTarget="7.3" maxTarget="7.*">
+    <plugin name="LMSnewGUI" version="0.8.1" minTarget="7.3" maxTarget="7.*">
       <title lang="EN">extGUI4LMS</title>
       <desc lang="EN">Alternative Web Interface</desc>
 	  <changes lang="EN">see http://code.google.com/p/extgui4lms/wiki/ChangeLog</changes>
-      <url>http://extgui4lms.googlecode.com/files/extGUI4LMS.0.80.zip</url>
+      <url>http://extgui4lms.googlecode.com/files/extGUI4LMS.0.81.zip</url>
       <creator>R.S.U</creator>
-      <sha>affab027bbf20ca7f0c47aa5b08b69e15312ce96</sha>
+      <sha>9afc165b8af79c2ebf805ecd2d5639abf1a1fce4</sha>
       <link>http://code.google.com/p/extgui4lms/</link>
     </plugin>
   </plugins>
