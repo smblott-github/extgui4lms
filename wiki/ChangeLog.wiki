@@ -1,6 +1,7 @@
 #summary Change Log
 #labels Featured
 
+ * 0.8.2 "Top Artist by Albums" statistic, track ratings column (disabled by default, switch it on in the column menu), changes in cover art handling
  * 0.8.1 Insert after current track (hold ctrl while dropping items), performance improvements for cover display (needs >= LMS 7.8.0), misc. bugfixes 
  * 0.8 cover view (double click on a Album tab), improved picture viewer
  * 0.7.12 Discogs artist >100 releases, more columns configuration, minor visual touch-ups, bugfixes
