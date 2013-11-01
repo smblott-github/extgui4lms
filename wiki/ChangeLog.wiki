@@ -1,6 +1,7 @@
 #summary Change Log
 #labels Featured
 
+ * 0.8.6 Buxfixes
  * 0.8.5 Music & Artist Information plugin integration, "New Music" search, misc. small improvements and bugfixes
  * 0.8.2 "Top Artists by Albums" statistic, track ratings column (disabled by default, switch it on in the column menu), changes in cover art handling
  * 0.8.1 Insert after current track (hold ctrl while dropping items), performance improvements for cover display (needs >= LMS 7.8.0), misc. bugfixes 
