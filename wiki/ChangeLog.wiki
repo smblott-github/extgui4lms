@@ -1,6 +1,7 @@
 #summary Change Log
 #labels Featured
 
+ * 0.8.7 improved Music & Artist Information plugin integration, support for artist images (LMS 7.8 only)
  * 0.8.6 Bugfixes
  * 0.8.5 Music & Artist Information plugin integration, "New Music" search, misc. small improvements and bugfixes
  * 0.8.2 "Top Artists by Albums" statistic, track ratings column (disabled by default, switch it on in the column menu), changes in cover art handling
